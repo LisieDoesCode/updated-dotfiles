@@ -1,0 +1,5 @@
+everything in the .config needs to go in .config in your own computer (no duh)
+spotlight.rasi needs to go into /usr/share/rofi/themes
+
+
+you may need to set files accordingly in ~/.config/i3/config
