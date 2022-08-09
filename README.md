@@ -22,7 +22,7 @@ yay
 vscode
 dolphin
 kitty
-pip spotify (upport planned)
+pip spotify (support planned)
 
 
 Please read the txt file in the rice git folder
